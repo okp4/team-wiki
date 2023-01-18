@@ -1,0 +1,36 @@
+name: Publish
+
+on:
+  push:
+    branches: [main]
+
+concurrency:
+  group: publish-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  publish-gh-pages:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Setup node environment (for building)
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.18
+
+      - name: Fetch dependencies
+        run: |
+          yarn --frozen-lockfile
+
+      - name: Build website
+        run: |
+          yarn build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.OKP4_TOKEN }}
+          publish_dir: ./build
+          # cname: docs.okp4.network
