@@ -1,41 +1,14 @@
-# Website
+# Team Wiki
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+### 🤓 About the project
 
-### Installation
+This reposiitory will be the main source of information for all our new employees and potential applicants. It will be used to present OKP4 as a company, its values, vision and objectives, as well as the processes and tools we use. It will also include some information about the offices and employee benefits.
 
-```
-yarn
-```
+### 🤗 Join us
 
-### Local Development
+This wiki is the perfect place to start and you will find a lot of useful information. But for any unanswered questions, for any help you may need, do not hesitate to contact us:
 
-```
-yarn start
-```
+- open an issue or a discussion in the most appropriate repository.
+- join us on [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/okp4) and ask your questions.
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
-
-### Build
-
-```
-yarn build
-```
-
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
-
-### Deployment
-
-Using SSH:
-
-```
-USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+The whole team is here to help you!
