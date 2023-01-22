@@ -12,3 +12,12 @@ This wiki is the perfect place to start and you will find a lot of useful inform
 - join us on [![Discord](https://img.shields.io/badge/Discord-7289DA?logo=discord&logoColor=white)](https://discord.gg/okp4) and ask your questions.
 
 The whole team is here to help you!
+
+## License
+
+The documentation of the wiki (markdown, assets) is [Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa] licensed.
+
+All other code in this repository is licensed under the [3-Clause BSD][bsd-3-clause].
+
+[bsd-3-clause]: https://opensource.org/licenses/BSD-3-Clause
+[cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
