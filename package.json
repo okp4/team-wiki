@@ -1,7 +1,14 @@
 {
-  "name": "team-wiki",
+  "name": "@okp4/team-wiki",
   "version": "0.0.0",
-  "private": true,
+  "private": false,
+  "repository": "git@github.com:okp4/team-wiki.git",
+  "license": "BSD-3-Clause",
+  "description": "OKP4 wiki",
+  "author": {
+    "name": "OKP4",
+    "web": "https://okp4.network"
+  },
   "scripts": {
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
