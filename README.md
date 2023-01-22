@@ -13,7 +13,7 @@ This wiki is the perfect place to start and you will find a lot of useful inform
 
 The whole team is here to help you!
 
-## License
+## ⚖️ License
 
 The documentation of the wiki (markdown, assets) is [Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa] licensed.
 
