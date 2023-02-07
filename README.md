@@ -1,6 +1,6 @@
 # Team Wiki
 
-> OKP4 Wiki 📚
+> [OKP4] Wiki 📚
 
 [![lint](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/lint.yml?label=lint&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/lint.yml)
 [![build](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/build.yml?label=build&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/build.yml)
@@ -13,7 +13,7 @@
 
 ## 🤓 About the project
 
-Welcome to the OKP4 Wiki! This platform serves as a central repository for information about the company, its values, vision, objectives, and the processes and tools it uses for the open source projects. The goal of this project is to improve communication, transparency, and efficiency for both internal and external contributors.
+Welcome to the [OKP4] Wiki! This platform serves as a central repository for information about the company, its values, vision, objectives, and the processes and tools it uses for the open source projects. The goal of this project is to improve communication, transparency, and efficiency for both internal and external contributors.
 
 ## 💬 Support
 
@@ -77,3 +77,4 @@ All other code in this repository is licensed under the [3-Clause BSD][bsd-3-cla
 [bsd-3-clause-image]: https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
 [cc-by-sa-image]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
+[OKP4]: https://okp4.network
