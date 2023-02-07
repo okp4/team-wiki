@@ -1,5 +1,7 @@
 # Team Wiki
 
+> OKP4 Wiki 📚
+
 [![lint](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/lint.yml?label=lint&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/lint.yml)
 [![build](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/build.yml?label=build&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/build.yml)
 [![publish](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/publish.yml?label=publish&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/publish.yml)
@@ -11,9 +13,9 @@
 
 ## 🤓 About the project
 
-This reposiitory will be the main source of information for all our new employees and potential applicants. It will be used to present OKP4 as a company, its values, vision and objectives, as well as the processes and tools we use. It will also include some information about the offices and employee benefits.
+Welcome to the OKP4 Wiki! This platform serves as a central repository for information about the company, its values, vision, objectives, and the processes and tools it uses for the open source projects. The goal of this project is to improve communication, transparency, and efficiency for both internal and external contributors.
 
-## 🤗 Join us
+## 💬 Support
 
 This wiki is the perfect place to start and you will find a lot of useful information. But for any unanswered questions, for any help you may need, do not hesitate to contact us:
 
