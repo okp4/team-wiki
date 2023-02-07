@@ -3,6 +3,8 @@
 [![lint](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/lint.yml?label=lint&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/lint.yml)
 [![build](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/build.yml?label=build&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/build.yml)
 [![publish](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/publish.yml?label=publish&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/publish.yml)
+[![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=for-the-badge&logo=conventionalcommits)](https://conventionalcommits.org)
+[![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](https://github.com/okp4/.github/blob/main/CODE_OF_CONDUCT.md)
 ## 🤓 About the project
 
 This reposiitory will be the main source of information for all our new employees and potential applicants. It will be used to present OKP4 as a company, its values, vision and objectives, as well as the processes and tools we use. It will also include some information about the offices and employee benefits.
