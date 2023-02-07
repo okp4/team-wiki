@@ -24,6 +24,10 @@ This wiki is the perfect place to start and you will find a lot of useful inform
 
 The whole team is here to help you!
 
+## 🤝 Contribute
+
+We welcome contributions from anyone who is interested in improving this wiki. Before making a contribution, please review the contributing guidelines to ensure that your contribution aligns with the project's goals and standards.
+
 ## ⚖️ License
 
 The documentation of the wiki (markdown, assets) is [Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa] licensed.
