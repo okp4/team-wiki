@@ -1,9 +1,7 @@
 name: Deploy Gh Pages
 
 on:
-  push:
-    branches:
-      - main
+  workflow_dispatch:
 
 concurrency:
   group: deploy-${{ github.ref }}
