@@ -21,12 +21,10 @@ jobs:
           node-version: 16.18.0
 
       - name: Fetch dependencies
-        working-directory: okp4-gatsby
         run: |
           yarn --frozen-lockfile
 
       - name: Build
-        working-directory: okp4-gatsby
         run: |
           yarn build
 
