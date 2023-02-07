@@ -1,0 +1,42 @@
+name: Deploy Gh Pages
+
+on:
+  push:
+    branches:
+      - main
+
+concurrency:
+  group: deploy-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+
+  publish-gh-pages:
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Setup node environment (for building)
+        uses: actions/setup-node@v3
+        with:
+          node-version: 16.18.0
+
+      - name: Fetch dependencies
+        working-directory: okp4-gatsby
+        run: |
+          yarn --frozen-lockfile
+
+      - name: Build
+        working-directory: okp4-gatsby
+        run: |
+          yarn build
+
+      - name: Deploy to GitHub Pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.OKP4_TOKEN }}
+          publish_dir: ./build
+          commit-message: |
+            chore: deploy team-wiki github pages
+          cname: work.okp4.com
