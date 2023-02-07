@@ -6,6 +6,9 @@
 [![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=for-the-badge&logo=conventionalcommits)](https://conventionalcommits.org)
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](https://github.com/okp4/.github/blob/main/CODE_OF_CONDUCT.md)
 [![docusaurus](https://img.shields.io/badge/Powered%20By-❤️%20docusaurus-darkgreen?style=for-the-badge)](https://docusaurus.io)
+[![license][bsd-3-clause-image]][bsd-3-clause]
+[![cc-by-sa-4.0][cc-by-sa-image]][cc-by-sa]
+
 ## 🤓 About the project
 
 This reposiitory will be the main source of information for all our new employees and potential applicants. It will be used to present OKP4 as a company, its values, vision and objectives, as well as the processes and tools we use. It will also include some information about the offices and employee benefits.
@@ -26,4 +29,6 @@ The documentation of the wiki (markdown, assets) is [Creative Commons Attributio
 All other code in this repository is licensed under the [3-Clause BSD][bsd-3-clause].
 
 [bsd-3-clause]: https://opensource.org/licenses/BSD-3-Clause
+[bsd-3-clause-image]: https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge
 [cc-by-sa]: https://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://i.creativecommons.org/l/by-sa/4.0/88x31.png
