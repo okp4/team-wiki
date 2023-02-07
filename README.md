@@ -28,6 +28,45 @@ The whole team is here to help you!
 
 We welcome contributions from anyone who is interested in improving this wiki. Before making a contribution, please review the contributing guidelines to ensure that your contribution aligns with the project's goals and standards.
 
+## 👩🏽‍💻 Develop
+
+### Prerequisites
+
+Be sure to have the following properly installed:
+
+- [Node.js](https://nodejs.org/ru/) `v16.19` ([gallium](https://nodejs.org/en/blog/release/v16.19.0/))
+- [yarn](https://yarnpkg.com)
+
+### Installation
+
+To install the necessary dependencies, run the following command:
+
+```sh
+yarn
+```
+
+### Local Development
+
+To start a local development server, run the following command:
+
+```sh
+yarn start
+```
+
+This command will start a local development server and open a browser window at <http://localhost:3000/>. Most changes made during development will be reflected live without having to restart the server.
+
+Please note that the search feature will not be available in development mode. To use the search feature, first run `yarn build` and then `yarn serve`.
+
+### Build
+
+To generate static content for production, run the following command:
+
+```sh
+yarn build
+```
+
+This command will generate static content into the `build` directory and can be served using any static content hosting service.
+
 ## ⚖️ License
 
 The documentation of the wiki (markdown, assets) is [Creative Commons Attribution-ShareAlike 4.0 International][cc-by-sa] licensed.
