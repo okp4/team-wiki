@@ -32,7 +32,7 @@ const config = {
                 },
                 blog: false,
                 theme: {
-                    customCss: require.resolve("./src/css/custom.css"),
+                    customCss: require.resolve("./src/scss/custom.scss"),
                 },
             }),
         ],
@@ -45,7 +45,8 @@ const config = {
                 title: "",
                 logo: {
                     alt: "OKP4 logo",
-                    src: "img/okp4-logo.svg",
+                    src: "img/okp4-logo-light.svg",
+                    srcDark: "img/okp4-logo-dark.svg",
                 },
                 items: [
                     {
@@ -66,20 +67,78 @@ const config = {
                         type: "doc",
                         docId: "process/agility",
                     },
+                    {
+                        href: "https://discord.com/invite/okp4",
+                        className: "header-discord-icon",
+                        position: "right",
+                    },
+                    {
+                        href: "https://github.com/okp4",
+                        className: "header-github-icon",
+                        position: "right",
+                    },
                 ],
+            },
+            footer: {
+                links: [
+                    {
+                        title: "Docs",
+                        items: [
+                            {
+                                label: "Whitepaper",
+                                href: "https://docs.okp4.network/whitepaper/abstract",
+                            },
+                        ],
+                    },
+                    {
+                        title: "Community",
+                        items: [
+                            {
+                                label: "Discord",
+                                href: "https://discord.gg/okp4",
+                            },
+                            {
+                                label: "Twitter",
+                                href: "https://twitter.com/OKP4_Protocol",
+                            },
+                            {
+                                label: "GitHub",
+                                href: "https://github.com/okp4",
+                            },
+                        ],
+                    },
+                    {
+                        title: "More",
+                        items: [
+                            {
+                                label: "Medium",
+                                href: "https://medium.com/okp4",
+                            },
+                            {
+                                label: "OKP4.network",
+                                href: "https://okp4.network",
+                            },
+                        ],
+                    },
+                ],
+                copyright: `Copyright © ${new Date().getFullYear()} OKP4`,
             },
 
             prism: {
                 theme: lightCodeTheme,
                 darkTheme: darkCodeTheme,
             },
+            colorMode: {
+                defaultMode: "dark",
+            },
             docs: {
                 sidebar: {
-                    hideable: true,
+                    hideable: false,
                     autoCollapseCategories: true,
                 },
             },
         }),
+    plugins: ["docusaurus-plugin-sass"],
 };
 
 module.exports = config;

@@ -13,3 +13,5 @@ Our ambition is to create ecosystems for the fluid sharing of data and services 
 The decentralized computer protocol OKP4 allows the custom creation of these Data Spaces, and to optimize their functioning by automating the application of the governance rules established by the stakeholders. In short, the protocol offers the possibility of orchestrating the execution of databases and services without a trusted third party.
 
 Autonomous, open and decentralized, it automatically governs the valuation of data through a wide variety of services, the management of consents, the calculation of contributions to the production of knowledge and the optimal remuneration of actors according to the value generated in common within an economy enabled by the protocol token.
+
+<video src="/video/okp4-intro.mp4" controls="controls" class="homepage__video" autoplay > </video>

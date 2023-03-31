@@ -1,0 +1,30 @@
+.pagination-nav {
+  display: none;
+}
+
+.navbar__link--active,
+.menu__link--active {
+  font-family: var(--ifm-heading-font-family);
+  color: var(--ifm-menu-color);
+  font-weight: 700;
+}
+
+.menu {
+  background-color: var(--ifm-menu-background-color);
+}
+
+.homepage__video {
+  width: 750px;
+}
+
+.table-of-contents {
+  display: none;
+}
+
+h1 {
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 20px;
+  margin-top: 56px;
+  margin-bottom: 40px;
+}

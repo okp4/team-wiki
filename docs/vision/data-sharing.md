@@ -24,3 +24,5 @@ Data sovereignty — which enables sustainable data-sharing ecosystems — refer
 Data, and therefore Data Spaces, are thus at the heart of the ongoing digital transformation — meaning the end of data monopolies in their current form — and are already influencing how we do business, consume, and live.
 
 OKP4 enables anyone (organizations, individuals, public administrations, NGOs or communities) to build and join an infinite number of highly customizable data spaces where they can generate value from data sharing.
+
+![Data-sharing](/img/data-sharing.png)

@@ -18,25 +18,25 @@ Sometimes life throws a brick at your head. Don't lose faith. Don't let your inn
 
 **Trust**
 
-« Impose ta chance,
-
-Serre ton bonheur
-
-Va vers ton risque.
-
-A te regarder, ils s’habitueront ».
+> « Impose ta chance,
+>
+> Serre ton bonheur
+>
+> Va vers ton risque.
+>
+> A te regarder, ils s’habitueront ».
 
 René CHAR
 
 &nbsp;
 
-"Impose your luck,
-
-Squeeze your happiness
-
-Go towards your risk.
-
-By looking at you, they will get used to it".
+> "Impose your luck,
+>
+> Squeeze your happiness
+>
+> Go towards your risk.
+>
+> By looking at you, they will get used to it".
 
 René CHAR
 
