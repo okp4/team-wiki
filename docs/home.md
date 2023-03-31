@@ -14,4 +14,6 @@ The decentralized computer protocol OKP4 allows the custom creation of these Dat
 
 Autonomous, open and decentralized, it automatically governs the valuation of data through a wide variety of services, the management of consents, the calculation of contributions to the production of knowledge and the optimal remuneration of actors according to the value generated in common within an economy enabled by the protocol token.
 
-<video src="/video/okp4-intro.mp4" controls="controls" class="homepage__video" autoplay > </video>
+<!-- <video src="/video/okp4-intro.mp4" controls="controls" class="homepage__video" autoplay > </video> -->
+
+<iframe width="850" height="500" src="https://www.youtube.com/embed/YQOafk1NQdI" title="OKP4 video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
