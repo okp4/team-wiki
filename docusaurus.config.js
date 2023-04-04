@@ -8,7 +8,7 @@ const config = {
     title: "Team Wiki",
     tagline: "On-board new team members in OKP4 🚀",
     url: "https://okp4.github.io",
-    baseUrl: "/team-wiki",
+    baseUrl: "/team-wiki/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "throw",
     favicon: "img/favicon.webp",
