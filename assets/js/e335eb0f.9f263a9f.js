@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_okp4_team_wiki=self.webpackChunk_okp4_team_wiki||[]).push([[304],{6333:e=>{e.exports=JSON.parse('{"title":"Vision","slug":"/category/vision","permalink":"/category/vision","navigation":{"previous":{"title":"Home","permalink":"/"},"next":{"title":"Why do we need data sharing?","permalink":"/vision/data"}}}')}}]);
