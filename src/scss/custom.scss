@@ -14,20 +14,28 @@
 :root {
   --ifm-code-font-size: 95%;
   --ifm-heading-color: #181c49;
+  --ifm-color-primary: #0f1e3d;
   --ifm-background-color: #dfe4e9;
   --ifm-navbar-background-color: #f2f6f9;
   --ifm-font-family-base: "IBM Plex Sans", sans-serif;
-  --ifm-heading-font-family: "IBM Plex Sans bold", sans-serif;
   --ifm-heading-font-family: "IBM Plex Sans", sans-serif;
+  --ifm-font-family-base-bold: "IBM Plex Sans Bold", sans-serif;
   --ifm-font-color-base: #0f1e3d;
   --ifm-footer-background-color: #dfe4e9;
   --ifm-menu-background-color: #f2f6f9;
   --ifm-menu-color: #0f1e3d;
+  --ifm-hover-overlay: none;
+  --ifm-navbar-search-input-background-color: rgba(15, 30, 61, 0.04);
+  --ifm-navbar-search-input-color: rgba(15, 30, 61, 0.4);
+  --search-local-modal-width: 300px;
+  --search-local-modal-shadow: var(var(--ifm-color-primary));
+  // --ifm-navbar-search-input-placeholder-color:
 }
 
 /* For readability concerns, you should choose a lighter palette in dark mode. */
 html[data-theme="dark"] {
   --ifm-code-font-size: 95%;
+  --ifm-color-primary: white;
   --ifm-heading-color: #ffffff;
   --ifm-background-color: #0d1933;
   --ifm-navbar-background-color: #0f1e3d;
@@ -35,4 +43,11 @@ html[data-theme="dark"] {
   --ifm-menu-background-color: #0f1e3d;
   --ifm-menu-color: white;
   --ifm-footer-background-color: #0d1933;
+  --ifm-hover-overlay: none;
+  --ifm-navbar-search-input-background-color: rgba(255, 255, 255, 0.04);
+  --ifm-navbar-search-input-color: rgba(255, 255, 255, 0.4);
+  --search-local-modal-shadow: var(var(--ifm-color-primary));
+  --search-local-highlight-color: rgba(255, 255, 255, 0.4);
+  --search-local-hit-background: white;
+  --search-local-hit-color: #0f1e3d;
 }

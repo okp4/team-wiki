@@ -17,7 +17,7 @@ const config = {
 
     i18n: {
         defaultLocale: "en",
-        locales: ["en"],
+        locales: ["en", "fr"],
     },
 
     presets: [
@@ -66,6 +66,14 @@ const config = {
                         position: "left",
                         type: "doc",
                         docId: "process/agility",
+                    },
+                    {
+                        type: "search",
+                        position: "right",
+                    },
+                    {
+                        type: "localeDropdown",
+                        position: "right",
                     },
                     {
                         href: "https://discord.com/invite/okp4",
@@ -138,7 +146,18 @@ const config = {
                 },
             },
         }),
-    plugins: ["docusaurus-plugin-sass"],
+
+    plugins: [
+        "docusaurus-plugin-sass",
+        [
+            "@easyops-cn/docusaurus-search-local",
+            {
+                hashed: true,
+                docsRouteBasePath: "/",
+                searchBarPosition: "left",
+            },
+        ],
+    ],
 };
 
 module.exports = config;

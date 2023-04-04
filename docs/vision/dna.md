@@ -42,6 +42,6 @@ René CHAR
 
 &nbsp;
 
-<!--
-<p style="text-align: center">Don’t forget to « Start with the Why !” </p>
-<p style="text-align: center"> <a> https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action?language=fr </a> </p> -->
+**Don’t forget to « Start with the Why !”**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qp0HIF3SfI4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
