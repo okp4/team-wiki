@@ -119,11 +119,15 @@ const config = {
                         title: "More",
                         items: [
                             {
+                                label: "Pollen",
+                                href: "https://pollen-by-okp4.com",
+                            },
+                            {
                                 label: "Medium",
                                 href: "https://medium.com/okp4",
                             },
                             {
-                                label: "OKP4.network",
+                                label: "OKP4",
                                 href: "https://okp4.network",
                             },
                         ],

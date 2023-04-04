@@ -20,8 +20,16 @@
     }
   }
 
-  &:hover {
-    background: var(--ifm-color-emphasis-200);
+  @media (max-width: 996px) {
+    &:hover {
+      background: none;
+    }
+  }
+
+  @media (min-width: 997px) {
+    &:hover {
+      background: var(--ifm-color-emphasis-200);
+    }
   }
 }
 

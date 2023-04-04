@@ -9,6 +9,6 @@ sidebar_label: "Nos valeurs"
 
 **Partage** : La démarche d'OKP4 SAS repose sur le partage. OKP4 cherche à générer un maximum de connaissances nouvelles en maximisant le partage de données et de services de traitement de façon sûre, transparente, fiable et facile.
 
-**Décentralisation** : L'ensemble des solutions OKP4 sont décentralisées, transparentes et vérifiables par la communauté. Au travers de la décentralisation, la confiance est placée dans le code et pas dans un tiers de confiance. Pour mieux comprendre, lire notre manifeste sur les écosystèmes de partage de données (lien vers publication Théo).
+**Décentralisation** : L'ensemble des solutions OKP4 sont décentralisées, transparentes et vérifiables par la communauté. Au travers de la décentralisation, la confiance est placée dans le code et pas dans un tiers de confiance. Pour mieux comprendre, lire notre [manifeste sur les écosystèmes de partage de données](https://github.com/okp4/publications/blob/main/papers/White%20paper%20-%20Data%20Spaces%20-%20Decentralised%20digital%20commons.pdf)..
 
 Le projet OKP4 assume sa singularité et met en oeuvre la méthodologie agile.

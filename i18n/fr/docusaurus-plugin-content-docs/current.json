@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Suivant",
+    "description": "The label for version current"
+  },
+  "sidebar.mainSidebar.category.Vision": {
+    "message": "Vision",
+    "description": "The label for category Vision in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.Organization": {
+    "message": "Organisation",
+    "description": "The label for category Organization in sidebar mainSidebar"
+  },
+  "sidebar.mainSidebar.category.Process & Rituals": {
+    "message": "Process et Rituels",
+    "description": "The label for category Process & Rituals in sidebar mainSidebar"
+  },
+  "sidebar.vision.category.Vision": {
+    "message": "Vision",
+    "description": "The label for category Vision in sidebar vision"
+  },
+  "sidebar.organization.category.Organization": {
+    "message": "Organisation",
+    "description": "The label for category Organization in sidebar organization"
+  },
+  "sidebar.process.category.Process & Rituals": {
+    "message": "Process et Rituels",
+    "description": "The label for category Process & Rituals in sidebar process"
+  }
+}
