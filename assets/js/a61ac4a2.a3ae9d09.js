@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_okp4_team_wiki=self.webpackChunk_okp4_team_wiki||[]).push([[104],{8712:i=>{i.exports=JSON.parse('{"title":"Vision","slug":"/category/vision","permalink":"/team-wiki/category/vision","navigation":{"next":{"title":"Why do we need data sharing?","permalink":"/team-wiki/vision/data"}}}')}}]);
