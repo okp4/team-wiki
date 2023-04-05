@@ -1,0 +1,50 @@
+{
+  "link.title.Docs": {
+    "message": "Docs",
+    "description": "The title of the footer links column with title=Docs in the footer"
+  },
+  "link.title.Community": {
+    "message": "Community",
+    "description": "The title of the footer links column with title=Community in the footer"
+  },
+  "link.title.More": {
+    "message": "More",
+    "description": "The title of the footer links column with title=More in the footer"
+  },
+  "link.item.label.Whitepaper": {
+    "message": "Whitepaper",
+    "description": "The label of footer link with label=Whitepaper linking to https://docs.okp4.network/whitepaper/abstract"
+  },
+  "link.item.label.Discord": {
+    "message": "Discord",
+    "description": "The label of footer link with label=Discord linking to https://discord.gg/okp4"
+  },
+  "link.item.label.Twitter": {
+    "message": "Twitter",
+    "description": "The label of footer link with label=Twitter linking to https://twitter.com/OKP4_Protocol"
+  },
+  "link.item.label.GitHub": {
+    "message": "GitHub",
+    "description": "The label of footer link with label=GitHub linking to https://github.com/okp4"
+  },
+  "link.item.label.Medium": {
+    "message": "Medium",
+    "description": "The label of footer link with label=Medium linking to https://medium.com/okp4"
+  },
+  "link.item.label.OKP4.network": {
+    "message": "OKP4.network",
+    "description": "The label of footer link with label=OKP4.network linking to https://okp4.network"
+  },
+  "copyright": {
+    "message": "Copyright © 2023 OKP4",
+    "description": "The footer copyright"
+  },
+  "link.item.label.Pollen": {
+    "message": "Pollen",
+    "description": "The label of footer link with label=Pollen linking to https://pollen-by-okp4.com"
+  },
+  "link.item.label.OKP4": {
+    "message": "OKP4",
+    "description": "The label of footer link with label=OKP4 linking to https://okp4.network"
+  }
+}

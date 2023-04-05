@@ -1,0 +1,14 @@
+{
+  "item.label.Vision": {
+    "message": "Vision",
+    "description": "Navbar item with label Vision"
+  },
+  "item.label.Organization": {
+    "message": "Organization",
+    "description": "Navbar item with label Organization"
+  },
+  "item.label.Process & Rituals": {
+    "message": "Process & Rituals",
+    "description": "Navbar item with label Process & Rituals"
+  }
+}
