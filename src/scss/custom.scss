@@ -1,5 +1,6 @@
 @import "main";
 @import "socials";
+@import "card";
 @import "../pages/index.scss";
 
 @font-face {
@@ -50,4 +51,8 @@ html[data-theme="dark"] {
   --search-local-highlight-color: rgba(255, 255, 255, 0.4);
   --search-local-hit-background: #0f1e3d;
   --search-local-hit-color: white;
+}
+
+.col col--3 {
+  display: none;
 }

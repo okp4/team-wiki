@@ -2,8 +2,7 @@
 sidebar_position: 1
 sidebar_label: "Équipe"
 id: team
+hide_table_of_contents: true
 ---
 
-# Équipe
-
-See here : <https://pollen-by-okp4.com/en/about-us/>
+# Équipe - Travail en cours

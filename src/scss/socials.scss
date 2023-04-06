@@ -50,3 +50,63 @@
   );
   /* stylelint-enable max-line-length */
 }
+
+.social_media {
+  display: flex;
+  flex-direction: row;
+  margin-top: 70px;
+
+  @media (max-width: 700px) {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+
+  .socials_link {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    gap: 10px;
+
+    svg {
+      width: 70px;
+      height: auto;
+
+      path {
+        fill: var(--ifm-color-primary);
+      }
+    }
+
+    span {
+      display: flex;
+      gap: 5px;
+      font-size: 20px;
+    }
+
+    &:hover {
+      $social_medias: (
+        linkedin: #0077b5,
+        twitter: #1da1f2,
+        github: black,
+        discord: #5865f2,
+        telegram: #0088cc,
+        medium: black,
+      );
+
+      @each $social_media, $color in $social_medias {
+        &.#{$social_media} {
+          .text {
+            color: $color;
+          }
+
+          > svg {
+            path {
+              fill: $color;
+            }
+          }
+        }
+      }
+    }
+  }
+}

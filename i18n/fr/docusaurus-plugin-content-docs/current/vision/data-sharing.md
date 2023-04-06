@@ -2,6 +2,7 @@
 sidebar_position: 1
 sidebar_label: "Pourquoi avons-nous besoin de partager des données ?"
 id: data
+hide_table_of_contents: true
 ---
 
 # Pourquoi avons-nous besoin de partager des données ?

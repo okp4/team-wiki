@@ -2,8 +2,7 @@
 sidebar_position: 1
 sidebar_label: "The team"
 id: team
+hide_table_of_contents: true
 ---
 
-# The team
-
-See here : <https://pollen-by-okp4.com/en/about-us/>
+# The team - Work in Progress

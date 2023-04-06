@@ -1,22 +1,23 @@
 ---
 sidebar_position: 4
 sidebar_label: "Our DNA"
+hide_table_of_contents: true
 ---
 
 # Our DNA
 
 OKP4 SAS is certainly a technological adventure, but it is above all a human adventure made up of passion, ambition, and trust.
 
-**Passion**
+**Passion** ❤️‍🔥
 
 Love what you do! Your work is an important part of your life, and the only way to be truly satisfied is to do what you think is a good job.
 And the only way to do a good job is to love what you do. If you haven't figured it out yet, keep looking. We'll help you do it.
 
-**Ambition**
+**Ambition** 🏔️
 
 Sometimes life throws a brick at your head. Don't lose faith. Don't let your inner voice be drowned out by the noise of other people's opinions. And most importantly, have the courage to follow your heart and intuition. That's where what you really want to become is housed. Everything else is secondary.
 
-**Trust**
+**Trust** 🤝
 
 > « Impose ta chance,
 >

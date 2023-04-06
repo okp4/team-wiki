@@ -1,9 +1,10 @@
 ---
 sidebar_position: 2
 sidebar_label: "Offices"
+hide_table_of_contents: true
 ---
 
-# Offices
+# Offices 🏢
 
 Our offices take place at 1 Passage de l’Europe 31400 Toulouse - FRANCE.
 

@@ -1,9 +1,10 @@
 ---
 sidebar_position: 5
 sidebar_label: "Readings"
+hide_table_of_contents: true
 ---
 
-# Readings
+# Readings 📚
 
 - « Les communs Numériques Décentralisés : Le nouveau paradigme du partage de données ».
 - « Blockchain : Vers de nouvelles chaînes de valeur » Eyrolles Gress, Thibaut, Bouzou, Nicolas, Téqui, Clément, Hiault, François, Della Chiesa.

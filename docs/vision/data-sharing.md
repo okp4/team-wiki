@@ -2,6 +2,7 @@
 sidebar_position: 1
 sidebar_label: "Why do we need data sharing?"
 id: data
+hide_table_of_contents: true
 ---
 
 # Why do we need data sharing?
