@@ -1,6 +1,7 @@
 ---
 sidebar_position: 3
 sidebar_label: "Nos valeurs"
+hide_table_of_contents: true
 ---
 
 # Nos valeurs

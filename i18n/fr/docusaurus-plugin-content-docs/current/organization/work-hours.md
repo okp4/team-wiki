@@ -1,9 +1,10 @@
 ---
 sidebar_position: 3
 sidebar_label: "Horaires de travail & Télétravail"
+hide_table_of_contents: true
 ---
 
-# Horaires de travail & Télétravail
+# Horaires de travail & Télétravail ⏰
 
 Nos horaires de travail sont du lundi au vendredi, de 9h à 12h et de 13h à 17h.
 
@@ -13,7 +14,7 @@ Les salariés autonomes (cadres et agents de maîtrise) peuvent bénéficier d'u
 
 Le travail à distance est possible pour les salariés autonomes (cadres et agents de maîtrise). Le travail à distance peut être effectué à partir du domicile de l'employé ou de tout autre lieu.
 
-Comment cela fonctionne-t-il ?
+⚠️ Comment cela fonctionne-t-il ?
 
 - Le manager et les collègues doivent être informés par le biais de notre outil RH.
 - Le télétravail n'est possible que pour une journée entière (pas de demi-journée).

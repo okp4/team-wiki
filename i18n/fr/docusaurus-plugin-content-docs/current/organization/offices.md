@@ -1,9 +1,10 @@
 ---
 sidebar_position: 2
 sidebar_label: "Bureaux"
+hide_table_of_contents: true
 ---
 
-# Bureaux
+# Bureaux 🏢
 
 Nos bureaux sont situés au 1 Passage de l'Europe 31400 Toulouse - FRANCE
 

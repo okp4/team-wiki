@@ -1,9 +1,10 @@
 ---
 sidebar_position: 3
 sidebar_label: "Working hours & Remote work"
+hide_table_of_contents: true
 ---
 
-# Working hours & Remote work
+# Working hours & Remote work ⏰
 
 Our working hours are Monday to Friday, from 9am to 12pm and from 1pm to 5pm.
 
@@ -13,7 +14,7 @@ Autonomous employees (managers and supervisors) can benefit from an arrangement 
 
 Remote working is possible for OKP4 autonomous employees (managers and supervisors). Remote work can be done from the employee's home or from any other location.
 
-How it works:
+⚠️ How it works:
 
 - Manager and colleagues should be informed through our HR tool.
 - Remote work is only possible for a full day (no half days).

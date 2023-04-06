@@ -53,10 +53,6 @@ const sidebars = {
                 },
                 {
                     type: "doc",
-                    id: "organization/graphical-charter",
-                },
-                {
-                    type: "doc",
                     id: "organization/social-media",
                 },
             ],
@@ -75,10 +71,6 @@ const sidebars = {
                 {
                     type: "doc",
                     id: "process/rituals",
-                },
-                {
-                    type: "doc",
-                    id: "process/recruitment",
                 },
                 {
                     type: "doc",

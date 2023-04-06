@@ -2,6 +2,7 @@
 sidebar_position: 1
 sidebar_label: "Agility"
 id: agility
+hide_table_of_contents: true
 ---
 
 # Agility
@@ -44,14 +45,57 @@ id: agility
 
 ## Agility at OKP4
 
---- IMAGE ---
+<div class="cards-container">
+    <div class="card">
+        <h2>Kanban implementation 🔁</h2>
+        <p>Visualizing work, flow efficiency, pull system</p>
+    </div>
+    <div class="card">
+        <h2>Shared knowledge 👥</h2>
+        <p>Projects and work open and visible to all the teams</p>
+    </div>
+    <div class="card">
+        <h2>Agile ceremonies 📅</h2>
+        <p>Daily, weekly, review & retrospective meetings</p>
+    </div>
+    <div class="card">
+        <h2>Agile mindset 🧠</h2>
+        <p>We have adaptive, collaborative & iterative approach</p>
+    </div>
+  </div>
 
 ### Kanban fundamentals
 
-- Pull-based system
-- Visualizing the workflow
-- Limiting Work in Progress
-- Measuring and managing the flow
-- Continuous learning and feedback
+✭ Pull-based system
 
---- IMAGE ---
+✭ Visualizing the workflow
+
+✭ Limiting Work in Progress
+
+✭ Measuring and managing the flow
+
+✭ Continuous learning and feedback
+
+### Product board 📝
+
+| BACKLOG                                                   | TO DO                                          | SPEC IN PROGRESS                              | MOCKUP IN PROGRESS                              | MOCKUP TESTING                              | VALIDATED                                            | CLOSED                              |
+| --------------------------------------------------------- | ---------------------------------------------- | --------------------------------------------- | ----------------------------------------------- | ------------------------------------------- | ---------------------------------------------------- | ----------------------------------- |
+| tasks that have been proposed but are not yet prioritised | tasks that are prioritised but not yet started | task specs that are currently being worked on | task mockups that are currently being worked on | task mockups that are done and being tested | tasks that are validated and waiting for development | tasks that are completed and closed |
+
+### Dev board 💻
+
+| BACKLOG                                                   | TO DO                                          | IN PROGRESS                              | IN REVIEW                               | TO TEST                                       | VALIDATED                                            | BLOCKED                                                        | EPICS                                                               | CLOSED                              |
+| --------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | --------------------------------------- | --------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------- | ----------------------------------- |
+| tasks that have been proposed but are not yet prioritised | tasks that are prioritised but not yet started | tasks that are currently being worked on | tasks that are currently in code review | tasks that are finished and ready for testing | tasks that are validated and waiting for development | tasks that are blocked and cannot be worked on for some reason | tasks that represent a major theme, broken down into smaller issues | tasks that are completed and closed |
+
+### Management board 🧑‍💼
+
+| BACKLOG                                                   | TO DO                                          | IN PROGRESS                              | REVIEW                                       | CLOSED                              |
+| --------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | -------------------------------------------- | ----------------------------------- |
+| tasks that have been proposed but are not yet prioritised | tasks that are prioritised but not yet started | tasks that are currently being worked on | tasks that are finished and ready for review | tasks that are completed and closed |
+
+### IT & DevOps board ⚙️
+
+| BACKLOG                                                   | TO DO                                          | IN PROGRESS                              | TESTING                               | BLOCKED                                                        | CLOSED                              |
+| --------------------------------------------------------- | ---------------------------------------------- | ---------------------------------------- | ------------------------------------- | -------------------------------------------------------------- | ----------------------------------- |
+| tasks that have been proposed but are not yet prioritised | tasks that are prioritised but not yet started | tasks that are currently being worked on | tasks that are currently being tested | tasks that are blocked and cannot be worked on for some reason | tasks that are completed and closed |

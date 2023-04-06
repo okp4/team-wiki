@@ -2,6 +2,7 @@
 sidebar_position: 1
 sidebar_label: "Agilité"
 id: agility
+hide_table_of_contents: true
 ---
 
 # Agilité
@@ -44,14 +45,57 @@ id: agility
 
 ## Agilité chez OKP4
 
---- IMAGE ---
+<div class="cards-container">
+    <div class="card">
+        <h2>Implémentation Kanban 🔁</h2>
+        <p>Visualiser le travail, efficience du flux, système "Pull"</p>
+    </div>
+    <div class="card">
+        <h2>Connaissance partagée 👥</h2>
+        <p>Projets et tâches ouverts et visibles par toutes les équipes</p>
+    </div>
+    <div class="card">
+        <h2>Cérémonies agiles 📅</h2>
+        <p>Réunions quotidiennes et hebdomadaires, revues et rétrospectives</p>
+    </div>
+    <div class="card">
+        <h2>Mentalité agile 🧠</h2>
+        <p>Nous adoptons une approche adaptative, collaborative et itérative</p>
+    </div>
+  </div>
 
 ### Principes de base du Kanban
 
-- Système à flux tendu
-- Visualisation du flux de travail
-- Limiter le travail en cours
-- Mesurer et gérer le flux
-- Apprentissage continu et retour d'information
+✭ Système à flux tendu
 
---- IMAGE ---
+✭ Visualisation du flux de travail
+
+✭ Limiter le travail en cours
+
+✭ Mesurer et gérer le flux
+
+✭ Apprentissage continu et retour d'information
+
+### Tableau Produit 📝
+
+| BACKLOG                                     | TO DO                                | SPEC EN COURS                    | MAQUETTES EN COURS          | TEST DE MAQUETTES                                 | VALIDÉ                                         | FERMÉ                        |
+| ------------------------------------------- | ------------------------------------ | -------------------------------- | --------------------------- | ------------------------------------------------- | ---------------------------------------------- | ---------------------------- |
+| tâches proposées mais pas encore priorisées | tâches priorisées mais pas commencée | tâches de spécification en cours | tâches de maquette en cours | tâches de maquettes terminées et en cours de test | tâches validées et en attente de développement | tâches complétées et fermées |
+
+### Tableau DEV 💻
+
+| BACKLOG                                     | TO DO                                | EN COURS        | EN REVUE                                  | EN TEST                                   | VALIDÉ                                         | BLOQUÉ                                                                       | EPICS                                                                     | FERMÉ                        |
+| ------------------------------------------- | ------------------------------------ | --------------- | ----------------------------------------- | ----------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------- | ------------------------------------------------------------------------- | ---------------------------- |
+| tâches proposées mais pas encore priorisées | tâches priorisées mais pas commencée | tâches en cours | tâches dont le code est en cours de revue | tâches terminées et prêtes à être testées | tâches validées et en attente de développement | tâches bloquées sur lesquelles on ne peut pas avancer pour certaines raisons | tâches qui représentent un thème majeur, découpées en plus petits tickets | tâches complétées et fermées |
+
+### Tableau Management 🧑‍💼
+
+| BACKLOG                                     | TO DO                                | EN COURS        | EN REVUE                                     | FERMÉ                        |
+| ------------------------------------------- | ------------------------------------ | --------------- | -------------------------------------------- | ---------------------------- |
+| tâches proposées mais pas encore priorisées | tâches priorisées mais pas commencée | tâches en cours | tâches terminées et prêtes à passer en revue | tâches complétées et fermées |
+
+### Tableau IT & DevOps ⚙️
+
+| BACKLOG                                     | TO DO                                | EN COURS        | EN TEST                 | BLOQUÉ                                                                       | FERMÉ                        |
+| ------------------------------------------- | ------------------------------------ | --------------- | ----------------------- | ---------------------------------------------------------------------------- | ---------------------------- |
+| tâches proposées mais pas encore priorisées | tâches priorisées mais pas commencée | tâches en cours | tâches en cours de test | tâches bloquées sur lesquelles on ne peut pas avancer pour certaines raisons | tâches complétées et fermées |
