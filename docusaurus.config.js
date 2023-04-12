@@ -7,8 +7,8 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 const config = {
     title: "Team Wiki",
     tagline: "On-board new team members in OKP4 🚀",
-    url: "https://okp4.github.io",
-    baseUrl: "/team-wiki/",
+    url: "https:/work.okp4.com",
+    baseUrl: "/",
     onBrokenLinks: "throw",
     onBrokenMarkdownLinks: "throw",
     favicon: "img/favicon.webp",
