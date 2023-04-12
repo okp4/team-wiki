@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_okp4_team_wiki=self.webpackChunk_okp4_team_wiki||[]).push([[273],{1012:i=>{i.exports=JSON.parse('{"title":"Organization","slug":"/category/organization","permalink":"/category/organization","navigation":{"previous":{"title":"Readings","permalink":"/vision/readings"},"next":{"title":"The team","permalink":"/organization/team"}}}')}}]);
