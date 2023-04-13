@@ -1,0 +1,392 @@
+{
+  "team": {
+    "poles": [
+      {
+        "name": "Direction Générale",
+        "members": [
+          {
+            "name": "Emmanuel Aldeguer",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Emmanuel_Aldeguer.png.webp",
+            "position": "Président",
+            "socials": [
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/e_aldeguer"
+              },
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/emmanuel-aldeguer-727255a7/?originalSubdomain=fr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pôle Projets",
+        "members": [
+          {
+            "name": "Marine Dechamp-Guillaume",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Marine-Dechamp-Guillaume-1.png.webp",
+            "position": "Directrice Projets",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/marine-dechamp-guillaume-5b6951118/"
+              }
+            ]
+          },
+          {
+            "name": "Gabriel Mengin",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Gabriel-Mengin_Plan-de-travail-1-copie-7.jpg.webp",
+            "position": "Chef de Projets",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/gabriel-mengin/"
+              }
+            ]
+          },
+          {
+            "name": "Chaimaa Zaoui",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/04/Chaimaa_Zaoui-2.png.webp",
+            "position": "Chef de Produit",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/chaimaazaoui/"
+              }
+            ]
+          },
+          {
+            "name": "Cédrick-Armel Yao Yebouet",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Portrait_Plan-de-travail-1-copie-2.jpg.webp",
+            "position": "Chef de Projets Junior",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/c%C3%A9drick-armel-yebouet-280036173/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Marketing & Communication",
+        "members": [
+          {
+            "name": "Julien Massonnat",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Julien_Massonnat-1.png.webp",
+            "position": "Responsable du Marketing et de la Communication",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/julienmassonnat"
+              },
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/JMassonnat"
+              }
+            ]
+          },
+          {
+            "name": "Manon Point",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Manon_Point-1.png.webp",
+            "position": "Responsable du Marketing Digital",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/manon-point/"
+              }
+            ]
+          },
+          {
+            "name": "Yoan Claro",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Portrait_Plan-de-travail-1-2.jpg.webp",
+            "position": " Assistant Marketing Digital",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/yoan-claro-600735193/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sales & Partnerships",
+        "members": [
+          {
+            "name": "Lucas Prézelin",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Lucas_Prezelin-1.jpg.webp",
+            "position": "Responsable du Development Commercial",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/lucas-pr%C3%A9zelin-63113684/"
+              }
+            ]
+          },
+          {
+            "name": "Louis Marline",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/02/Louis_Marline.png.webp",
+            "position": "Chargé de Développement commercial dach",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/louismarline/"
+              }
+            ]
+          },
+          {
+            "name": "Jean-Yves Roux-Levrat",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Jean-Yves_Roux-Levrat.jpg.webp",
+            "position": "Conseiller en développement commercial",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/jean-yves-roux-levrat-301266/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Technical",
+        "members": [
+          {
+            "name": "Christophe Camel",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Christophe-Camel_Plan-de-travail-1-copie.jpg.webp",
+            "position": "C.T.O.",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/christophe-camel/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/ccamel"
+              }
+            ]
+          },
+          {
+            "name": "Frédéric Vilcot",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Frederic_Vilcot-1.png.webp",
+            "position": "Developpeur principal Front-End",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-vilcot/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/fredericvilcot"
+              }
+            ]
+          },
+          {
+            "name": "Arnaud Mimart",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Arnaud_Mimart.png.webp",
+            "position": "Cloud Architect",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/8a68aa108/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/amimart"
+              }
+            ]
+          },
+          {
+            "name": "Benjamin Deneux",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Benjamin_Deneux.jpg.webp",
+            "position": "Développeur Full Stack",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/bananapps/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/bdeneux"
+              }
+            ]
+          },
+          {
+            "name": "Joey Rémion",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Joey_Remion-1.png.webp",
+            "position": "Développeur Full Stack",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/joey-remion/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/JoeyDjr"
+              }
+            ]
+          },
+          {
+            "name": "Lauren Olivier",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Lauren-Olivier_Plan-de-travail-1.jpg.webp",
+            "position": "Développeur Front-End",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/lauren-olivier31/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/lolottetheclash"
+              }
+            ]
+          },
+          {
+            "name": "Joakim Eriksson",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Joakim_Eriksson-1.png.webp",
+            "position": "Développeur Junior",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/eriksson-joakim/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/ErikssonJoakim"
+              }
+            ]
+          },
+          {
+            "name": "Anja Miscevic",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/03/Anja_Miscevic-1.png.webp",
+            "position": "Développeur Front-End / Animateur Agile",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/anja-miscevic/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/AnjaMis"
+              }
+            ]
+          },
+          {
+            "name": "Damien Sonneville",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Damien_Sonneville.jpg.webp",
+            "position": "Responsable Data",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/damiensonneville/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/SonnevilleDamien"
+              }
+            ]
+          },
+          {
+            "name": "Nour Elhouda Kired",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Nour-Elhouda-Kired.jpg.webp",
+            "position": "Data Scientist",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/nour-elhouda-kired-344054173/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/NourKired"
+              }
+            ]
+          },
+          {
+            "name": "Dolorès Valide",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Dolores_Valide.png.webp",
+            "position": "Data Analyst",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/d-valide/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/DValide"
+              }
+            ]
+          },
+          {
+            "name": "Jérémy Legon",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Jeremy_Legon-1.png.webp",
+            "position": "Assistant Junior en Informatique et Développement",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-legon-27423b200/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/jeremylgn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Blockchain ecosystem",
+        "members": [
+          {
+            "name": "Théo Pelliet",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Theo-Pelliet_Plan-de-travail-1-copie-3.jpg.webp",
+            "position": "Responsable de l'écosystème Blockchain",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/theo-pelliet/"
+              },
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/theopelliet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Administration & Finance",
+        "members": [
+          {
+            "name": "Tatiana Aldeguer",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Tatiana_Aldeguer-2.png.webp",
+            "position": "Responsable Administratif",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/tatiana-aldeguer-80582565/"
+              }
+            ]
+          },
+          {
+            "name": "Thibault Turpin",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Thibault_Turpin.png.webp",
+            "position": "Contrôleur de gestion et responsable finance décentralisée",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/thibault-turpin/"
+              }
+            ]
+          },
+          {
+            "name": "Yuki",
+            "photo": "https://pollen-by-okp4.com/wp-content/uploads/2023/01/Yuki.png.webp",
+            "position": "Happiness Manager"
+          }
+        ]
+      }
+    ]
+  }
+}
