@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # Nos valeurs
 
-**Collectif** : les communs sont des ressources matérielles ou immatérielles, publiques ou privées, dont nous décidons collectivement qu’elles doivent être accessibles et/ou gérées « en commun, au service du bien commun » (Cécile Renouard 2012).
+**Communs** : les communs sont des ressources matérielles ou immatérielles, publiques ou privées, dont nous décidons collectivement qu’elles doivent être accessibles et/ou gérées « en commun, au service du bien commun » (Cécile Renouard 2012).
 
 **Partage** : La démarche d'OKP4 SAS repose sur le partage. OKP4 cherche à générer un maximum de connaissances nouvelles en maximisant le partage de données et de services de traitement de façon sûre, transparente, fiable et facile.
 

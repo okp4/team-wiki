@@ -6,7 +6,7 @@ hide_table_of_contents: true
 
 # Our values
 
-**Collective**: the commons are material or immaterial resources, public or private, which we collectively decide should be accessible and/or managed "in common, in the service of the common good" (Cécile Renouard 2012).
+**Commons**: the commons are material or immaterial resources, public or private, which we collectively decide should be accessible and/or managed "in common, in the service of the common good" (Cécile Renouard 2012).
 
 **Sharing**: The OKP4 SAS approach is based on sharing. OKP4 seeks to generate as much new knowledge as possible by maximizing the sharing of data and processing services in a secure, transparent, reliable and easy way.
 
