@@ -7,6 +7,10 @@
   align-items: center;
   margin-top: 30px;
 
+  &--recruitment {
+    align-items: stretch;
+  }
+
   .card {
     position: relative;
     display: flex;
@@ -30,6 +34,18 @@
 
     p {
       text-align: center;
+    }
+
+    &--recruitment {
+      p,
+      ul {
+        text-align: left;
+      }
+
+      .recruitment-img {
+        margin: 10px;
+        max-width: 80px;
+      }
     }
   }
 }

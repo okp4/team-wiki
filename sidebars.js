@@ -74,6 +74,10 @@ const sidebars = {
                 },
                 {
                     type: "doc",
+                    id: "process/recruitment",
+                },
+                {
+                    type: "doc",
                     id: "process/tools",
                 },
             ],
