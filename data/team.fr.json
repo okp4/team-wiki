@@ -1,0 +1,365 @@
+{
+  "team": {
+    "poles": [
+      {
+        "name": "Direction Générale",
+        "members": [
+          {
+            "name": "Emmanuel Aldeguer",
+            "position": "Président",
+            "socials": [
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/e_aldeguer"
+              },
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/emmanuel-aldeguer-727255a7/?originalSubdomain=fr"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Pôle Projets",
+        "members": [
+          {
+            "name": "Marine Dechamp-Guillaume",
+            "position": "Directrice Projets",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/marine-dechamp-guillaume-5b6951118/"
+              }
+            ]
+          },
+          {
+            "name": "Gabriel Mengin",
+            "position": "Chef de Projets",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/gabriel-mengin/"
+              }
+            ]
+          },
+          {
+            "name": "Chaimaa Zaoui",
+            "position": "Chef de Produit",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/chaimaazaoui/"
+              }
+            ]
+          },
+          {
+            "name": "Cédrick-Armel Yao Yebouet",
+            "position": "Chef de Projets Junior",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/c%C3%A9drick-armel-yebouet-280036173/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Marketing & Communication",
+        "members": [
+          {
+            "name": "Julien Massonnat",
+            "position": "Responsable du Marketing et de la Communication",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/julienmassonnat"
+              },
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/JMassonnat"
+              }
+            ]
+          },
+          {
+            "name": "Manon Point",
+            "position": "Responsable du Marketing Digital",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/manon-point/"
+              }
+            ]
+          },
+          {
+            "name": "Yoan Claro",
+            "position": " Assistant Marketing Digital",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/yoan-claro-600735193/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Sales & Partnerships",
+        "members": [
+          {
+            "name": "Lucas Prézelin",
+            "position": "Responsable du Development Commercial",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/lucas-pr%C3%A9zelin-63113684/"
+              }
+            ]
+          },
+          {
+            "name": "Louis Marline",
+            "position": "Chargé de Développement commercial dach",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/louismarline/"
+              }
+            ]
+          },
+          {
+            "name": "Jean-Yves Roux-Levrat",
+            "position": "Conseiller en développement commercial",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/jean-yves-roux-levrat-301266/"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Technical",
+        "members": [
+          {
+            "name": "Christophe Camel",
+            "position": "C.T.O.",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/christophe-camel/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/ccamel"
+              }
+            ]
+          },
+          {
+            "name": "Frédéric Vilcot",
+            "position": "Developpeur principal Front-End",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/fr%C3%A9d%C3%A9ric-vilcot/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/fredericvilcot"
+              }
+            ]
+          },
+          {
+            "name": "Arnaud Mimart",
+            "position": "Cloud Architect",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/8a68aa108/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/amimart"
+              }
+            ]
+          },
+          {
+            "name": "Benjamin Deneux",
+            "position": "Développeur Full Stack",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/bananapps/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/bdeneux"
+              }
+            ]
+          },
+          {
+            "name": "Joey Rémion",
+            "position": "Développeur Full Stack",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/joey-remion/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/JoeyDjr"
+              }
+            ]
+          },
+          {
+            "name": "Lauren Olivier",
+            "position": "Développeur Front-End",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/lauren-olivier31/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/lolottetheclash"
+              }
+            ]
+          },
+          {
+            "name": "Joakim Eriksson",
+            "position": "Développeur Junior",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/eriksson-joakim/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/ErikssonJoakim"
+              }
+            ]
+          },
+          {
+            "name": "Anja Miscevic",
+            "position": "Développeur Front-End / Animateur Agile",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/anja-miscevic/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/AnjaMis"
+              }
+            ]
+          },
+          {
+            "name": "Damien Sonneville",
+            "position": "Responsable Data",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/damiensonneville/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/SonnevilleDamien"
+              }
+            ]
+          },
+          {
+            "name": "Nour Elhouda Kired",
+            "position": "Data Scientist",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/nour-elhouda-kired-344054173/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/NourKired"
+              }
+            ]
+          },
+          {
+            "name": "Dolorès Valide",
+            "position": "Data Analyst",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/d-valide/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/DValide"
+              }
+            ]
+          },
+          {
+            "name": "Jérémy Legon",
+            "position": "Assistant Junior en Informatique et Développement",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/j%C3%A9r%C3%A9my-legon-27423b200/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/jeremylgn"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Blockchain ecosystem",
+        "members": [
+          {
+            "name": "Théo Pelliet",
+            "position": "Responsable de l'écosystème Blockchain",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/theo-pelliet/"
+              },
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/theopelliet"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "Administration & Finance",
+        "members": [
+          {
+            "name": "Tatiana Aldeguer",
+            "position": "Responsable Administratif",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/tatiana-aldeguer-80582565/"
+              }
+            ]
+          },
+          {
+            "name": "Thibault Turpin",
+            "position": "Contrôleur de gestion et responsable finance décentralisée",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/thibault-turpin/"
+              }
+            ]
+          },
+          {
+            "name": "Yuki",
+            "position": "Happiness Manager"
+          }
+        ]
+      }
+    ]
+  }
+}
