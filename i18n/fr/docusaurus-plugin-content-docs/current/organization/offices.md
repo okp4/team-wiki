@@ -12,4 +12,8 @@ Nos bureaux sont situés au 1 Passage de l'Europe 31400 Toulouse - FRANCE
 
 ![OKP4 Office](/img/office-okp4.jpg)
 
-Notre filiale OKP4 Gmbh est située Peter-Lühr-Straße 7 - 81739 Munich.
+Notre filiale OKP4 Gmbh est située  
+Our subsidiary OKP4 GmbH is located  
+Peter-Lühr-Straße 7  
+81739 Munich  
+GERMANY  

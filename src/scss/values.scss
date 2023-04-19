@@ -1,0 +1,42 @@
+.pictograms {
+  margin: 40px auto;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 40px;
+  align-items: center;
+  justify-items: center;
+  max-width: 900px;
+
+  @media (max-width: 785px) {
+    gap: 10px;
+  }
+
+  @media (max-width: 410px) {
+    grid-template-columns: 1fr;
+    grid-template-rows: repeat(3, 1fr);
+  }
+
+  .pictogram {
+    width: 100%;
+
+    svg {
+      width: 100%;
+      height: 100%;
+      max-width: 125px;
+      max-height: 125px;
+
+      @media (max-width: 575px) {
+        max-width: 75px;
+        max-height: 75px;
+      }
+
+      path {
+        fill: var(--ifm-color-primary);
+      }
+    }
+
+    h4 {
+      margin-top: 10px;
+    }
+  }
+}

@@ -1,0 +1,83 @@
+.team_container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 60px;
+  align-items: center;
+  margin-top: 30px;
+
+  .team_pole {
+    h2 {
+      text-align: left;
+      font-size: 30px;
+    }
+  }
+
+  .team_pole_members {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 30px;
+  }
+
+  .member {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+
+    img {
+      width: 200px;
+      border-radius: 10px;
+    }
+
+    .name,
+    .position {
+      text-transform: uppercase;
+      text-align: left;
+    }
+
+    h3,
+    h4 {
+      margin-bottom: 5px;
+    }
+    h3 {
+      font-size: 20px;
+    }
+    h4 {
+      font-size: 14px;
+    }
+
+    .socials {
+      display: flex;
+      gap: 5px;
+
+      .social_link {
+        path {
+          fill: var(--ifm-color-primary);
+        }
+      }
+    }
+  }
+}
+
+.join {
+  margin: 25px auto;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  max-width: 350px;
+  background-color: var(--ifm-navbar-background-color);
+  background-clip: border-box;
+  border: 1px solid rgba(0 0 0 / 12.5%);
+  border-radius: 0.65rem;
+  padding: 10px;
+
+  html[data-theme="dark"] & {
+    background-color: rgb(255 255 255 / 10%);
+  }
+
+  p {
+    text-align: center;
+  }
+}
