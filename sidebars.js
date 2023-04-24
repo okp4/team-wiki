@@ -83,6 +83,100 @@ const sidebars = {
             ],
         },
     ],
+    employees: [
+        {
+            type: "link",
+            label: "Organigram",
+            href: "https://okp4.ilucca.net/directory/users/organization-chart",
+        },
+        {
+            type: "category",
+            label: "Employees benefits",
+            link: {
+                type: "doc",
+                id: "employees/benefits",
+            },
+            items: [
+                {
+                    type: "doc",
+                    id: "employees/benefits/phone",
+                },
+                {
+                    type: "doc",
+                    id: "employees/benefits/luncheon-voucher",
+                },
+                {
+                    type: "doc",
+                    id: "employees/benefits/bspce",
+                },
+                {
+                    type: "doc",
+                    id: "employees/benefits/tokens",
+                },
+                {
+                    type: "doc",
+                    id: "employees/benefits/sustainable-mobility",
+                },
+                {
+                    type: "doc",
+                    id: "employees/benefits/remote-work",
+                },
+                {
+                    type: "doc",
+                    id: "employees/benefits/offices",
+                },
+            ],
+        },
+        {
+            type: "category",
+            label: "Tools",
+            link: {
+                type: "doc",
+                id: "employees/tools",
+            },
+            items: [
+                {
+                    type: "doc",
+                    id: "employees/tools/mail-agenda",
+                },
+                {
+                    type: "doc",
+                    id: "employees/tools/nextcloud",
+                },
+                {
+                    type: "doc",
+                    id: "employees/tools/github",
+                },
+                {
+                    type: "doc",
+                    id: "employees/tools/lucca",
+                },
+                {
+                    type: "doc",
+                    id: "employees/tools/slack",
+                },
+                {
+                    type: "doc",
+                    id: "employees/tools/okp4-graphic-charter",
+                },
+            ],
+        },
+        {
+            type: "doc",
+            id: "employees/reviews-and-seminars",
+            label: "Reviews and seminars",
+        },
+        {
+            type: "doc",
+            id: "employees/travel-policy",
+            label: "Travel policy",
+        },
+        {
+            type: "doc",
+            id: "employees/recruitment",
+            label: "Recruitment",
+        },
+    ],
 };
 
 module.exports = sidebars;

@@ -10,5 +10,9 @@
   "item.label.Process & Rituals": {
     "message": "Process & Rituals",
     "description": "Navbar item with label Process & Rituals"
+  },
+  "item.label.Employees": {
+    "message": "Employees",
+    "description": "Navbar item with label Employees"
   }
 }

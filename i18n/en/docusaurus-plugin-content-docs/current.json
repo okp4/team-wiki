@@ -15,6 +15,10 @@
     "message": "Process & Rituals",
     "description": "The label for category Process & Rituals in sidebar mainSidebar"
   },
+  "sidebar.mainSidebar.category.Employees": {
+    "message": "Employees",
+    "description": "The label for category Employees in sidebar mainSidebar"
+  },
   "sidebar.vision.category.Vision": {
     "message": "Vision",
     "description": "The label for category Vision in sidebar vision"
@@ -26,5 +30,9 @@
   "sidebar.process.category.Process & Rituals": {
     "message": "Process & Rituals",
     "description": "The label for category Process & Rituals in sidebar process"
+  },
+  "sidebar.process.category.Employees": {
+    "message": "Employees",
+    "description": "The label for category Employees in sidebar process"
   }
 }
