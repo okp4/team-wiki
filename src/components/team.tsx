@@ -54,11 +54,9 @@ export default function Team({ team }: TeamProps): JSX.Element {
                         <div className="team_pole_members">
                             {pole.members.map((member) => (
                                 <div key={member.name} className="member">
-                                    <div className="photo">
-                                        <img
-                                            src={`/img/team/${member.name}.webp`}
-                                        />
-                                    </div>
+                                    <img
+                                        src={`/img/team/${member.name}.webp`}
+                                    />
                                     <h3 className="name">{member.name}</h3>
                                     <h4 className="position">
                                         {member.position}
