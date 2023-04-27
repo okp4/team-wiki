@@ -1,12 +1,12 @@
 .team_container {
   display: flex;
-  flex-direction: row;
   flex-wrap: wrap;
   gap: 60px;
   align-items: center;
   margin-top: 30px;
 
   .team_pole {
+    width: 100%;
     h2 {
       text-align: left;
       font-size: 30px;
@@ -17,6 +17,9 @@
     display: grid;
     grid-template-columns: repeat(4, 1fr);
     gap: 30px;
+    @media (max-width: 767px) {
+      grid-template-columns: 1fr;
+    }
   }
 
   .member {
@@ -26,8 +29,17 @@
     align-items: start;
 
     img {
-      width: 200px;
+      width: 60%;
+      max-width: 435px;
       border-radius: 10px;
+
+      @media (max-width: 767px) {
+        margin-left: 60px;
+      }
+      @media (max-width: 325px) {
+        width: 80%;
+        margin: 0 15px;
+      }
     }
 
     .name,
@@ -42,6 +54,7 @@
     }
     h3 {
       font-size: 20px;
+      margin-top: 15px;
     }
     h4 {
       font-size: 14px;
