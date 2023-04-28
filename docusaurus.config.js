@@ -68,6 +68,12 @@ const config = {
                         docId: "process/agility",
                     },
                     {
+                        label: "Employees",
+                        position: "left",
+                        type: "doc",
+                        docId: "employees/organigram",
+                    },
+                    {
                         type: "search",
                         position: "right",
                     },
