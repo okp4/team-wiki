@@ -1,11 +1,11 @@
 ---
 sidebar_position: 1
-sidebar_label: "Agilité"
+sidebar_label: "Agilité chez OKP4"
 id: agility
 hide_table_of_contents: true
 ---
 
-# Agilité
+# Agilité chez OKP4
 
 ## Pourquoi l'agilité ?
 

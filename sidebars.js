@@ -70,6 +70,10 @@ const sidebars = {
                 },
                 {
                     type: "doc",
+                    id: "process/kanban",
+                },
+                {
+                    type: "doc",
                     id: "process/rituals",
                 },
                 {
