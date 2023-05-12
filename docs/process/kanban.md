@@ -56,6 +56,6 @@ There is a certain criteria a user story must pass in order to be ready for deve
 - mockups (for all devices and themes)
 - labels added
 - US presented to DEV team (refinement meeting)
-- attached to an epic
+- attachment to an epic
 - estimation (planning poker meeting)
 - external dependencies if applicable

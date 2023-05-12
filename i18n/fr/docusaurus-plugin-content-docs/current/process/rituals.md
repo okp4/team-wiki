@@ -6,13 +6,13 @@ hide_table_of_contents: true
 
 # Nos rituels
 
-📆 **Réunions quotidiennes**
+📆 **Réunion quotidienne**
 
 - Équipe technique
 - Utilisation et mise à jour régulière de notre tableau Kanban
 - Suivi du WIP
 
-📆 **Réunions hebdomadaires**
+📆 **Réunion hebdomadaire**
 
 - Équipe technique et équipe produit
 - Présentation et discussion des priorités de la semaine
@@ -28,18 +28,18 @@ hide_table_of_contents: true
 - Toutes les équipes
 - Améliorer nos processus et nos méthodes de travail
 
-📆 **Réunions de projets**
+📆 **Réunion de projets**
 
-- Équipes de projet et de marketing et communication
+- Équipes projets et marketing et communication
 - Examen de tous les projets en cours et à venir
 
-📆 **Le backlog refinement**
+📆 **Le raffinage du backlog**
 
 - Réunion hebdomadaire entre l'équipe produit et l'équipe technique
-- L'équipe produit présente de nouvelles user story à l'équipe technique.
+- L'équipe produit présente de nouvelles user stories à l'équipe technique.
 - Les tâches sont affinées en fonction du retour d'information
 
 📆 **Le planning poker**
 
 - Réunion hebdomadaire entre l'équipe produit et l'équipe technique
-- Pour estimer l'effort de travail pour les nouvelles user story
+- Pour estimer l'effort de travail pour les nouvelles user stories
