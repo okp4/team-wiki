@@ -117,6 +117,10 @@ const sidebars = {
                     type: "doc",
                     id: "dev/ci-cd",
                 },
+                {
+                    type: "doc",
+                    id: "dev/signing-commits",
+                },
             ],
         },
     ],

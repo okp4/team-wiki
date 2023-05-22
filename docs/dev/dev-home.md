@@ -18,7 +18,9 @@ You will find:
 
 - the Naming rules;
 
-- and the CI/CD used (with github actions).
+- the CI/CD used (with github actions);
+
+- information about signing commits.
 
 ## 🤗 Join us
 
