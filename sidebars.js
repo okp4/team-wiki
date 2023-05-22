@@ -121,6 +121,10 @@ const sidebars = {
                     type: "doc",
                     id: "dev/signing-commits",
                 },
+                {
+                    type: "doc",
+                    id: "dev/vs-extensions",
+                },
             ],
         },
     ],

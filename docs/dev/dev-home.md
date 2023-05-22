@@ -20,7 +20,9 @@ You will find:
 
 - the CI/CD used (with github actions);
 
-- information about signing commits.
+- information about signing commits;
+
+- the list of recommended VS Code extensions commonly used by our developers.
 
 ## 🤗 Join us
 
