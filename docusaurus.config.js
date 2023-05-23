@@ -68,6 +68,12 @@ const config = {
                         docId: "process/agility",
                     },
                     {
+                        label: "Dev Wiki",
+                        position: "left",
+                        type: "doc",
+                        docId: "dev/dev-home",
+                    },
+                    {
                         type: "search",
                         position: "right",
                     },

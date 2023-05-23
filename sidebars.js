@@ -87,6 +87,47 @@ const sidebars = {
             ],
         },
     ],
+    dev: [
+        {
+            type: "category",
+            label: "Dev Wiki",
+            collapsed: false,
+            items: [
+                {
+                    type: "doc",
+                    id: "dev/dev-home",
+                },
+                {
+                    type: "doc",
+                    id: "dev/what-should-i-know",
+                },
+                {
+                    type: "doc",
+                    id: "dev/open-source",
+                },
+                {
+                    type: "doc",
+                    id: "dev/git",
+                },
+                {
+                    type: "doc",
+                    id: "dev/naming-rules",
+                },
+                {
+                    type: "doc",
+                    id: "dev/ci-cd",
+                },
+                {
+                    type: "doc",
+                    id: "dev/signing-commits",
+                },
+                {
+                    type: "doc",
+                    id: "dev/vs-extensions",
+                },
+            ],
+        },
+    ],
 };
 
 module.exports = sidebars;
