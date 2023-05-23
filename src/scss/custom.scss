@@ -7,13 +7,13 @@
 @import "../pages/index.scss";
 
 @font-face {
-  font-family: "IBM Plex Sans";
-  src: url("/static/fonts/IBM_Plex_Sans/IBMPlexSans-Regular.ttf");
+  font-family: "Barlow Regular";
+  src: url("/static/fonts/Barlow/Barlow-Light.ttf");
 }
 
 @font-face {
-  font-family: "IBM Plex Sans Bold";
-  src: url("/static/fonts/IBM_Plex_Sans/IBMPlexSans-Bold.ttf");
+  font-family: "Barlow Bold";
+  src: url("/static/fonts/Barlow/Barlow-Bold.ttf");
 }
 
 :root {
@@ -22,9 +22,9 @@
   --ifm-color-primary: #0f1e3d;
   --ifm-background-color: #dfe4e9;
   --ifm-navbar-background-color: #f2f6f9;
-  --ifm-font-family-base: "IBM Plex Sans", sans-serif;
-  --ifm-heading-font-family: "IBM Plex Sans", sans-serif;
-  --ifm-font-family-base-bold: "IBM Plex Sans Bold", sans-serif;
+  --ifm-font-family-base: "Barlow Regular", sans-serif;
+  --ifm-heading-font-family: "Barlow Regular", sans-serif;
+  --ifm-font-family-base-bold: "Barlow Bold", sans-serif;
   --ifm-font-color-base: #0f1e3d;
   --ifm-footer-background-color: #dfe4e9;
   --ifm-menu-background-color: #f2f6f9;
