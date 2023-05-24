@@ -33,17 +33,19 @@ CI/CD is here to serve you.
 
 ## About you - Ubuntu and Egoless philosophy 🧑‍💻
 
-### 1. You shalt not be your code
+### 1. You are not your code
 
 Fight the natural tendency to treat your programs as part of yourself, and instead view criticism dispassionately on its merits.
 A must read: [Egoless programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/) - a style of computer programming in which personal factors are minimized so that quality may be improved.
 
-### 2. You shalt not blame your teammates
+### 2. You shouldn't blame your teammates
 
 Because the code is a common good, one person's failure means everyone's failure.
 
-### 3. You shalt connect with people
+### 3. You should connect with people
 
-### 4. You shalt teach others what you know, what you learned
+Working with other people can help you broaden your horizons and improve your skills.
+
+### 4. You should teach others what you know, what you learned
 
 Sharing knowledge is key. And teaching others is a great way of improving your own skills and your own knowledge: "To teach is to learn twice." (Joseph Joubert).

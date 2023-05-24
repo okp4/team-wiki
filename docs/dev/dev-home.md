@@ -8,13 +8,13 @@ hide_table_of_contents: true
 
 This wiki serves as a reference documentation for all developers contributing to our open-source projects.
 
-You will find:
+Here you will find:
 
 - what every contributor should know;
 
 - our vision of Open Source;
 
-- the use of Git in our projects;
+- details about our Git flow;
 
 - the Naming rules;
 
@@ -24,7 +24,7 @@ You will find:
 
 - the list of recommended VS Code extensions commonly used by our developers.
 
-## 🤗 Join us
+## 🚀 Join us
 
 This wiki is the perfect place to start and you will find a lot of useful information. But for any unanswered questions, for any help you may need, do not hesitate to contact us:
 

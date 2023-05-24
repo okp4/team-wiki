@@ -1,12 +1,10 @@
 ---
 sidebar_position: 4
-sidebar_label: "Git"
+sidebar_label: "Git Flow"
 hide_table_of_contents: true
 ---
 
 # Git
-
-## GitHub
 
 All the git repositories are hosted on GitHub in the `OKP4` organization [here](https://github.com/okp4).
 
@@ -90,12 +88,24 @@ Please make sure the following is done when submitting a pull request:
 
 - **Your PR is opened against the `main` branch**.
 
+- Make sure the opened PR is **well tested**, and meets our **quality standards**.
+
 #### 🤓 And then what?
 
-The CI/CD performs a set of tasks automatically such as running linters against the code and run tests to guard against mistakes. These systems' duty is to make you worry as little about the chores as possible - [rely on CI/CD](https://github.com/okp4/wiki/wiki/What-should-I-know#𝟱-rely-on-cicd).
+The CI/CD performs a set of tasks automatically such as running linters against the code and run tests to guard against mistakes. These systems' duty is to make you worry as little about the chores as possible - rely on CI/CD.
 
-Reviewers/maintainers will also review and comment on the code. The comments made are important, and should be taken into consideration. Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered - [You are not your code](https://github.com/okp4/wiki/wiki/What-should-I-know#𝟏-you-are-not-your-code).
+Reviewers/maintainers will also review and comment on the code. The comments made are important, and should be taken into consideration. Remember that the entire point of a review is to find problems, and problems will be found. Don't take it personally when one is uncovered - You are not your code.
 
 Don't hesitate to ask for help if you need it, the team is there to help.
 
-Once your pull request is approved you can merge it to integrate your changes in the `main` branch. Good job! 👍
+#### ✍🏻 When reviewing a code
+
+- Focus mostly on the **structuring issues** (such as code organization, functions, modules, interface definitions, etc.) that affect the code quality.
+
+- Be **objective** rather than subjective, don’t comment just for the sake of commenting.
+
+- In case of a big issue with the review, please **switch the PR to a draft** and rework the PR with team’s help.
+
+- **Avoid a large number of mentions** in the comments since it causes more latency in the review process.
+
+Finally, once your pull request is approved you can merge it to integrate your changes in the `main` branch. Good job! 👍
