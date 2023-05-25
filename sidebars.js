@@ -107,7 +107,7 @@ const sidebars = {
                 },
                 {
                     type: "doc",
-                    id: "dev/git",
+                    id: "dev/github-flow",
                 },
                 {
                     type: "doc",
