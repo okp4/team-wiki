@@ -48,8 +48,8 @@ It is **fundamental** to understand that the projects put in open source must sa
 
 <ins>To check:</ins>
 
-- All commits follow our [conventional commit](https://github.com/okp4/wiki/wiki/Naming-rules#commit-messages) specification.
-- All commits must be [signed](https://docs.github.com/en/authentication/managing-commit-signature-verification/signing-commits).
+- All commits follow our [conventional commit](naming-rules#commit-messages) specification.
+- All commits must be [signed](signing-commits).
 - Project has a clean branching mode (e.g. one `main` branch, and feature branches merged into it).
 
 ### 👉 A complete CI/CD
