@@ -199,20 +199,6 @@
             ]
           },
           {
-            "name": "Joey Rémion",
-            "position": "Développeur Full Stack",
-            "socials": [
-              {
-                "name": "linkedin",
-                "link": "https://www.linkedin.com/in/joey-remion/"
-              },
-              {
-                "name": "github",
-                "link": "https://github.com/JoeyDjr"
-              }
-            ]
-          },
-          {
             "name": "Lauren Olivier",
             "position": "Développeur Front-End",
             "socials": [
@@ -251,6 +237,20 @@
               {
                 "name": "github",
                 "link": "https://github.com/AnjaMis"
+              }
+            ]
+          },
+          {
+            "name": "Anthony Gourraud",
+            "position": "Ingénieur Devrel",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/anthony-gourraud/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/antho31"
               }
             ]
           },
@@ -326,6 +326,20 @@
               {
                 "name": "twitter",
                 "link": "https://twitter.com/theopelliet"
+              }
+            ]
+          },
+          {
+            "name": "Mathieu Conte",
+            "position": "Chef de Projet écosystème Blockchain",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/mathieuconte/"
+              },
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/ticotic_123"
               }
             ]
           }
