@@ -241,6 +241,20 @@
             ]
           },
           {
+            "name": "Anthony Gourraud",
+            "position": "Developer Relations Engineer",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/anthony-gourraud/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/antho31"
+              }
+            ]
+          },
+          {
             "name": "Damien Sonneville",
             "position": "Head of Data",
             "socials": [
@@ -312,6 +326,20 @@
               {
                 "name": "twitter",
                 "link": "https://twitter.com/theopelliet"
+              }
+            ]
+          },
+          {
+            "name": "Mathieu Conte",
+            "position": "Blockchain Ecosystem Project Manager",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/mathieuconte/"
+              },
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/ticotic_123"
               }
             ]
           }

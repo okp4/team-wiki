@@ -241,6 +241,20 @@
             ]
           },
           {
+            "name": "Anthony Gourraud",
+            "position": "Ingénieur Devrel",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/anthony-gourraud/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/antho31"
+              }
+            ]
+          },
+          {
             "name": "Damien Sonneville",
             "position": "Responsable Data",
             "socials": [
@@ -312,6 +326,20 @@
               {
                 "name": "twitter",
                 "link": "https://twitter.com/theopelliet"
+              }
+            ]
+          },
+          {
+            "name": "Mathieu Conte",
+            "position": "Chef de Projet écosystème Blockchain",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/mathieuconte/"
+              },
+              {
+                "name": "twitter",
+                "link": "https://twitter.com/ticotic_123"
               }
             ]
           }
