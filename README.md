@@ -6,6 +6,7 @@
 [![build](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/build.yml?label=build&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/build.yml)
 [![publish](https://img.shields.io/github/actions/workflow/status/okp4/team-wiki/publish.yml?label=publish&style=for-the-badge&logo=github)](https://github.com/okp4/team-wiki/actions/workflows/publish.yml)
 [![conventional commits](https://img.shields.io/badge/Conventional%20Commits-1.0.0-yellow.svg?style=for-the-badge&logo=conventionalcommits)](https://conventionalcommits.org)
+[![semantic-release](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-semantic--release-e10079.svg?style=for-the-badge)](https://github.com/semantic-release/semantic-release)
 [![contributor covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg?style=for-the-badge)](https://github.com/okp4/.github/blob/main/CODE_OF_CONDUCT.md)
 [![docusaurus](https://img.shields.io/badge/Powered%20By-❤️%20docusaurus-darkgreen?style=for-the-badge)](https://docusaurus.io)
 [![license][bsd-3-clause-image]][bsd-3-clause]
