@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_okp4_team_wiki=self.webpackChunk_okp4_team_wiki||[]).push([[716],{7759:e=>{e.exports=JSON.parse('{"title":"Dev Wiki","slug":"/category/dev-wiki","permalink":"/category/dev-wiki","navigation":{"previous":{"title":"Tools","permalink":"/process/tools"},"next":{"title":"Home","permalink":"/dev/dev-home"}}}')}}]);
