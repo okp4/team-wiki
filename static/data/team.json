@@ -299,6 +299,34 @@
                 "link": "https://github.com/jeremylgn"
               }
             ]
+          },
+          {
+            "name": "Alexandre Arcens",
+            "position": "Junior Data Scientist",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/alexandre-arcens-b077a7174/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/A-arcens"
+              }
+            ]
+          },
+          {
+            "name": "Joy Heurtaux",
+            "position": "Apprentice Front-End Developer",
+            "socials": [
+              {
+                "name": "linkedin",
+                "link": "https://www.linkedin.com/in/joy-heurtaux-568a99172/"
+              },
+              {
+                "name": "github",
+                "link": "https://github.com/Yoj16"
+              }
+            ]
           }
         ]
       },
