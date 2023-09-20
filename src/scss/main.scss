@@ -2,38 +2,91 @@
   display: none;
 }
 
-.navbar__link,
-.menu__link {
-  font-weight: 500;
-  font-size: 16px;
-  font-family: var(--ifm-heading-font-family);
-  color: var(--ifm-menu-color);
-}
+html {
+  .navbar--fixed-top {
+    height: 80px;
+  }
 
-.navbar__link--active,
-.menu__link--active {
-  font-weight: 700;
-}
+  .menu__link--active,
+  .menu__link:hover {
+    border-color: #ff9500;
+    border-radius: 0;
+    border-right: 2px solid;
+    color: #ff9500;
+  }
 
-.navbar__items {
-  .navbar__search {
-    input {
-      font-family: var(--ifm-font-family-base);
-      font-weight: 500;
-      font-size: 16px;
-      line-height: 72px;
+  .navbar__items {
+    .navbar__search {
+      input {
+        font-family: var(--ifm-font-family-base);
+        font-weight: var(--ifm-font-weight-semibold);
+        font-size: 16px;
+        line-height: 72px;
 
-      svg {
-        path {
-          fill: var(--ifm-color-primary);
+        svg {
+          path {
+            fill: var(--ifm-color-primary);
+          }
         }
+      }
+
+      > button {
+        cursor: pointer;
       }
     }
 
-    > button {
-      cursor: pointer;
+    .navbar__link--active,
+    .navbar__link:hover {
+      -webkit-text-fill-color: #0000;
+      background: #f79413;
+      -webkit-background-clip: text;
+      background-clip: text;
     }
   }
+
+  .navbar__link,
+  .menu__link {
+    font-weight: var(--ifm-font-weight-semibold);
+    font-size: 18px;
+    font-family: var(--ifm-font-family-base);
+  }
+
+  .navbar__link--active,
+  .menu__link--active {
+    font-weight: var(--ifm-font-weight-bold);
+  }
+
+  .footer {
+    background: var(--ifm-footer-background-color-main);
+
+    .footer__title {
+      color: white;
+    }
+
+    .footer__link-item {
+      color: #ced2d9;
+
+      &:hover {
+        color: white;
+      }
+    }
+
+    .footer__copyright {
+      color: white;
+    }
+  }
+}
+
+h2,
+html .footer__title {
+  font-family: var(--ifm-heading-font-family);
+}
+
+h3,
+h4,
+h5,
+h6 {
+  font-family: inherit;
 }
 
 .menu {
@@ -57,10 +110,10 @@
 }
 
 h1 {
-  font-weight: 700;
-  font-size: 28px;
+  font-size: 3rem;
   margin-top: 56px;
   margin-bottom: 40px;
+  font-family: var(--ifm-h1-font-family);
 }
 
 p,
@@ -79,4 +132,19 @@ h3 {
 pre code {
   background-color: var(--ifm-navbar-background-color);
   text-align: left;
+}
+
+.menu__link--sublist {
+  &.menu__link--active {
+    border: none;
+    color: var(--ifm-font-color-base);
+  }
+}
+
+.menu a:hover {
+  background-color: #ff95001f;
+}
+
+iframe {
+  max-width: 100%;
 }

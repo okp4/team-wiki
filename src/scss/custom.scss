@@ -15,17 +15,32 @@
   src: url("/static/fonts/Barlow/Barlow-Bold.ttf");
 }
 
+@font-face {
+  font-family: "Norse regular";
+  src: url("/static/fonts/Norse/Norse.woff");
+}
+
+@font-face {
+  font-family: "Norse bold";
+  src: url("/static/fonts/Norse/Norse-Bold.woff");
+}
+
 :root {
   --ifm-code-font-size: 95%;
   --ifm-heading-color: #181c49;
   --ifm-color-primary: #0f1e3d;
-  --ifm-background-color: #dfe4e9;
+  --ifm-hover-overlay: #ff95001f;
+  --ifm-background-color: #0000 linear-gradient(180deg, #faf8f46c, #fff 0) 0% 0%
+    no-repeat padding-box;
   --ifm-navbar-background-color: #f2f6f9;
   --ifm-font-family-base: "Barlow Regular", sans-serif;
-  --ifm-heading-font-family: "Barlow Regular", sans-serif;
+  --ifm-heading-font-family: "Norse regular", sans-serif;
   --ifm-font-family-base-bold: "Barlow Bold", sans-serif;
+  --ifm-h1-font-family: "Norse bold", sans-serif;
   --ifm-font-color-base: #0f1e3d;
-  --ifm-footer-background-color: #dfe4e9;
+  --ifm-footer-background-color-main: transparent
+    linear-gradient(212deg, #181c49 0%, #343869 100%) 0% 0% no-repeat
+    padding-box;
   --ifm-menu-background-color: #f2f6f9;
   --ifm-menu-color: #0f1e3d;
   --ifm-navbar-search-input-background-color: rgba(15, 30, 61, 0.04);
@@ -41,12 +56,15 @@ html[data-theme="dark"] {
   --ifm-code-font-size: 95%;
   --ifm-color-primary: white;
   --ifm-heading-color: white;
+  --ifm-hover-overlay: #ffffff0d;
   --ifm-background-color: #0d1933;
   --ifm-navbar-background-color: #0f1e3d;
   --ifm-font-color-base: white;
   --ifm-menu-background-color: #0f1e3d;
   --ifm-menu-color: white;
-  --ifm-footer-background-color: #0d1933;
+  --ifm-footer-background-color-main: transparent
+    linear-gradient(180deg, #102040 0%, #061126 100%) 0% 0% no-repeat
+    padding-box;
   --ifm-navbar-search-input-background-color: rgba(255, 255, 255, 0.04);
   --ifm-navbar-search-input-color: rgba(255, 255, 255, 0.4);
   --search-local-modal-shadow: var(var(--ifm-color-primary));
