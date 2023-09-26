@@ -7,12 +7,22 @@ html {
     height: 80px;
   }
 
-  .menu__link--active,
-  .menu__link:hover {
-    border-color: #ff9500;
+  .menu__link--active {
+    border-radius: 0;
+    color: #ff9500 !important;
+    border-right: 2px solid#ff9500;
+  }
+
+  .menu__list-item-collapsible:hover {
     border-radius: 0;
     border-right: 2px solid;
-    color: #ff9500;
+  }
+
+  .theme-doc-sidebar-item-link:hover {
+    a:not(.menu__link--active) {
+      border-radius: 0;
+      border-right: 2px solid;
+    }
   }
 
   .navbar__items {
@@ -51,6 +61,7 @@ html {
     font-family: var(--ifm-font-family-base);
   }
 
+  .navbar__link,
   .navbar__link--active,
   .menu__link--active {
     font-weight: var(--ifm-font-weight-bold);
@@ -74,6 +85,10 @@ html {
     .footer__copyright {
       color: white;
     }
+  }
+
+  .hash-link {
+    display: none;
   }
 }
 
